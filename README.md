@@ -20,3 +20,5 @@ This analysis examines the patterns in trend, growth, and geographical distribut
 
 ### IMPORTANT NOTES:
 There are 3 CSV files involved in this analysis: "NYC TLC Trip Record.csv" and "taxi_zone_lookup" are the prerequisites for running "Capstone_2.ipynb", and "Capstone_2.csv" is the output of the Jupyter Notebook file. The two prerequisites are provided in this repository.
+
+The Tableau dashboard for the project can be found [here](https://public.tableau.com/app/profile/randy.prawiro/viz/Capstone2Dashboard_17176907722230/NYCTaxiDashboard)
